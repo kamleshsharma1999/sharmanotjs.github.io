@@ -1,0 +1,92 @@
+.about{
+    width: 100%;
+    height: auto;
+    border: 1px ;
+    display: flex;
+}
+.about1{
+    width: 50%;
+    height: 1000px;
+    border: 1px ;
+}
+.myimg{
+    width: 241px;
+    height: 281px;
+    border: 2px  wheat;
+    margin-left: 69px;
+    margin-top: 32px;
+    border-radius: 70%;
+}
+.contect{
+    margin-left: 70px;
+}
+
+.span1{
+    color: black;
+}
+.map{
+    width: 68%;
+    height: 200px;
+    border: 1px ;
+    margin-bottom: 50px;
+}
+.but{
+    width: 10em;
+    height: 5ex;
+    background-color: gold;
+    border: 2px solid firebrick;
+    border-radius: 10px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    margin: 20px;
+}
+.but:hover{
+    background-color: bisque;
+}
+
+img.map {
+    margin-left: -60px;
+    margin-top: -16px;
+    border-radius: 10px;
+}
+.about2{
+    width: 50%;
+    height: 1000px;
+    border: 1px ;
+}
+.about_me{
+    width: 100%;
+    height: 60px;
+    border: 1px ;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.objective{
+    width: 100%;
+    height: 40px;
+    border: 1px ;
+    background-color: rgb(250, 242, 242);
+    color: rgb(12, 4, 4);
+    text-align: center;
+
+}
+h3{
+  margin-top: 10px;
+}
+.imgopjective{
+    width: 100%;
+    height: 200px;
+    border: 1px ;
+}
+.maibvv{
+    
+        
+        margin-left: -2px;
+        margin-top: -1px;
+        height: 200px;
+        width: 100%;
+    
+}
+
